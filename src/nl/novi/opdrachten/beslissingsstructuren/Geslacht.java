@@ -6,7 +6,7 @@ public class Geslacht {
     public static void main(String[] args) {
         Scanner userInputScanner = new Scanner(System.in);
 
-        System.out.println("Wat is uw geslacht?");
+        System.out.println("Wat is uw naamS?");
         String geslacht = userInputScanner.nextLine();
 
         /*
